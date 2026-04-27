@@ -1,0 +1,17 @@
+🤖 My Chatbot
+A friendly little Python script that talks back! I made this to learn how to turn keywords into real conversations.
+
+💬 What it can do
+Listen for words: It finds keywords like "sad" or "hello" even in long sentences.
+Stay chill: It doesn't care about capital letters.
+Chat back: It gives you advice, motivation, or a simple hello.
+
+🚀 How to use it
+Save the code as bot.py.
+Run it in your terminal: python bot.py.
+Type your message and hit Enter.
+Type "bye" when you want to leave.
+
+🛠️ The plan
+I want to make it smarter by adding more words and making the responses feel more like a real person.
+

@@ -1,0 +1,17 @@
+🍕 Restaurant Ordering System
+A handy Python script to manage food orders. It handles the menu, tracks what customers pick, and calculates the bill automatically.
+
+💬 What it does
+Shows the Menu: Lists all available food and drinks with their prices.
+Takes Orders: Lets you pick an item and quantity, then calculates the cost.
+Tracks Everything: Keeps a running list of everything ordered during the session.
+Totals the Bill: Instantly sums up the entire order so you know what to charge.
+
+🚀 How to use it
+Save the code as restaurant.py.
+Run it in your terminal: python restaurant.py.
+Choose an option (1-5) to navigate the system.
+Select "5" to finish and close the program.
+
+🛠️ The plan
+Next, I want to add a feature to remove items if someone changes their mind and save the final receipt to a text file.
